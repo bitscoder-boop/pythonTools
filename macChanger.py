@@ -6,7 +6,6 @@ import random
 #import threading
 import time
 import re
-import sys
 
 alphabet = [x for x in string.ascii_uppercase[:6]]
 number = [x for x in range(10)]
